@@ -40,7 +40,7 @@ Real-time streaming – Incremental LLM responses
 
 Responsive design – Cross-device compatibility
 
-📊 Core Capabilities
+Core Capabilities-
 
 The platform provides 16 specialized tools for comprehensive stock analysis, including:
 
