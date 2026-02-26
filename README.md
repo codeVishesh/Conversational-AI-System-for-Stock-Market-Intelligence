@@ -19,7 +19,7 @@ RAG-style Grounding: Real-time and historical data retrieval from Yahoo Finance
 
 Observability: Tracing and reasoning analysis using Langfuse
 
-🛠️ Technology Stack
+Technology Stack
 Backend
 
 FastAPI – High-performance REST APIs
